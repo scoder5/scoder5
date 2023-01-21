@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/surya13r" target="blank"><img src="https://img.shields.io/twitter/follow/surya13r?logo=twitter&style=for-the-badge" alt="surya13r" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **Data Structures and Algorithms**
 
 - 📫 How to reach me **scoding83@gmail.com**
 
-- ⚡ Fun fact **I play Veena**
+- ⚡ Fun fact   **I play Veena**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
