@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning Data Structures and Algorithms
 
-- 💬 Talk to me about Web Development, Hackathons and Content Creation
+- 💬 Talk to me about Web Development and Content Creation
 
 - 📫 How to reach me **scoding83@gmail.com**
 
