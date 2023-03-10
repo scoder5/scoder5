@@ -25,7 +25,7 @@ A  PASSIONATE  FULL  STACK  WEB  DEVELOPER  FROM  INDIA  ♥ .I AM A COMPETETIVE
 - Check out my pesonal portfolio [HERE!](https://rsuryatr.vercel.app/ "HERE!") <br>
    <br>
   <div align="center">
-    <img src="https://github.com/scoder5/scoder5/blob/main/portfolio.png" align="center" />
+    <img src="https://github.com/scoder5/scoder5/blob/main/portfolio.png" target="_blank" align="center" />
   </div>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width=10%> </h2>
