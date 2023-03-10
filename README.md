@@ -33,5 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scoder5&show_icons=true&locale=en" alt="scoder5" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scoder5&" alt="scoder5" /></p>
+<p align="center"> <a href="https://leetcode.com/suryaraghavendra/"><img src="https://leetcard.jacoblin.cool/suryaraghavendra?theme=dark&font=Ubuntu&ext=heatmap"/></a> </p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/suryaraghavendra?theme=dark&font=Ubuntu&ext=heatmap)
