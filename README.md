@@ -34,8 +34,8 @@
 
 <p align=center>
   <div align=center>
-    &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=scoder5&show_icons=true&locale=en" alt="scoder5" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=scoder5&" alt="scoder5" />
+    <img width="42.5%" src="https://github-readme-stats.vercel.app/api?username=scoder5&show_icons=true&locale=en" alt="scoder5" />
+    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=scoder5&" alt="scoder5" />
   <div/>
 <p/>
 <br>
