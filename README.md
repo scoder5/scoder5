@@ -1,5 +1,5 @@
 ### <div align="center"><h1>HI I'M RAGHAVENDRA SURYA ! 👋😎<h1>
-A PASSIONATE FULL STACK WEB DEVELOPER FROM INDIA. BESIDES DOING WEB-DEV I LOVE PLAYING THE VEENA, CHECKOUT MY REPOSITORIES TO FOLLOW MY DEVELOPMENT JOURNEY.
+A  PASSIONATE  FULL  STACK  WEB  DEVELOPER  FROM  INDIA  ♥ .I AM A COMPETETIVE PROGRAMMER, BESIDES DOING  WEB-DEV  I  LOVE  PLAYING  THE  VEENA,  CHECKOUT  MY  REPOSITORIES  TO  FOLLOW  MY  DEVELOPMENT  JOURNEY.
 </div>  
 <br/>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif">
@@ -17,6 +17,16 @@ A PASSIONATE FULL STACK WEB DEVELOPER FROM INDIA. BESIDES DOING WEB-DEV I LOVE P
 - 📫 How to reach me **scoding83@gmail.com**
 
 - ⚡ Fun fact :  **I play Veena**
+
+<br/>
+
+# PORTFOLIO 
+
+- Check out my pesonal portfolio [HERE!](https://rsuryatr.vercel.app/ "HERE!") <br>
+   <br>
+  <div align="center">
+    <img src="https://github.com/scoder5/scoder5/blob/main/portfolio.png" align="center" />
+  </div>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width=10%> </h2>
 <p align="left">
