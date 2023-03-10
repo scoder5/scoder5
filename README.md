@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Raghavendra Surya</h1>
-<h3 align="center">A passionate Full-Stack Web Developer from India. Besides doing Web-Dev I love playing Veena, checkout my repositories to follow my development journey.</h3>
+### <div align="center"><h1>HI I'M RAGHAVENDRA SURYA ! 👋😎<h1>
+A PASSIONATE FULL STACK WEB DEVELOPER FROM INDIA. BESIDES DOING WEB-DEV I LOVE PLAYING THE VEENA, CHECKOUT MY REPOSITORIES TO FOLLOW MY DEVELOPMENT JOURNEY.
+</div>  
 <br/>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif">
 
