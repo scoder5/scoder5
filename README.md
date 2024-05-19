@@ -26,7 +26,7 @@ developer.greet();
 <h2> What I always play with  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%> </h2>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,php,mysql,perl,ubuntu,py,js,react,next,vite,tailwind,gitlab,vercel,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=cpp,php,mysql,perl,ubuntu,py,js,ts,react,next,tailwind,gitlab,vercel,vscode,postman" />
 </p>
 <br>
 
